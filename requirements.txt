@@ -1,0 +1,6 @@
+argparse~=1.4.0
+setuptools~=63.2.0
+tagcounter~=1.0
+DateTime~=4.7
+PyYAML~=6.0
+SQLAlchemy~=1.4.44
